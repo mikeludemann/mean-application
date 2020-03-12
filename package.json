@@ -1,0 +1,29 @@
+{
+  "name": "mean-application",
+  "version": "1.0.0",
+  "description": "MEAN-Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeludemann/mean-application.git"
+  },
+  "keywords": [
+    "MEAN",
+    "mongoDB",
+    "expressjs",
+    "Angular",
+    "NodeJS"
+  ],
+  "author": "Mike Ludemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeludemann/mean-application/issues"
+  },
+  "homepage": "https://github.com/mikeludemann/mean-application#readme",
+  "dependencies": {
+    "concurrently": "^5.1.0"
+  }
+}
